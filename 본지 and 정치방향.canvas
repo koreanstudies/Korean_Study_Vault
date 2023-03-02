@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"**반집합주의**\n- 정책적 사회복지는 과도\n- 복지는 민간단체\n\t- 교회\n\t- 집단 (mason)\n\t- 가족, 친구\n\t- 인맥","id":"758f92c4bcb6fe72","x":-160,"y":-80,"width":260,"height":220,"color":"6"},
+		{"type":"text","text":"**미사회주의적 복지집합주의**\n","id":"459b9a2eb28fca17","x":-155,"y":160,"width":255,"height":200,"color":"3"},
+		{"type":"text","text":"[[마르크스주의]]\n","id":"1ab6f8eaaf0f36fc","x":-155,"y":560,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"**급신식 사회행성**","id":"628eb6cd98a9e60a","x":-155,"y":462,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"**페이비인사회주의**\n","id":"a25deed6cc500c1a","x":-155,"y":380,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"7 좌파와 우파와 복지정책 설명하기 Kang.pdf","id":"b18aa0d347df65eb","x":133,"y":46,"width":250,"height":60},
+		{"type":"file","file":"복지정치방향.jpeg","id":"a939e7ddcc5e164f","x":-1280,"y":97,"width":610,"height":566},
+		{"type":"text","text":"**사회개혁주의**\n","id":"f792b7179cdf47bf","x":-540,"y":300,"width":240,"height":192,"color":"3"}
+	],
+	"edges":[
+		{"id":"a7d834b77a42b59c","fromNode":"f792b7179cdf47bf","fromSide":"right","toNode":"459b9a2eb28fca17","toSide":"left"},
+		{"id":"7dc5d513eab47b28","fromNode":"f792b7179cdf47bf","fromSide":"right","toNode":"a25deed6cc500c1a","toSide":"left"},
+		{"id":"570160d27d71da60","fromNode":"f792b7179cdf47bf","fromSide":"right","toNode":"628eb6cd98a9e60a","toSide":"left"}
+	]
+}
