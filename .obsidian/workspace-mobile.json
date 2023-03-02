@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "baf9ecb0969689dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7327af31ddcbbbfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4677959799dc343c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사흘 굶어서 남의 담 안 넘는 놈 없다.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a110f2a2097b15c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8dae7c1437677e13",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c1708785be631cc1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5a2527f93a03ff8c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "80a83b3fdd646bb6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9e686735977de23d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2f6f8de2c420856d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "사흘 굶어서 남의 담 안 넘는 놈 없다.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "619d2160aae8701c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "사흘 굶어서 남의 담 안 넘는 놈 없다.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "074e5ae1658e2a71",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "사흘 굶어서 남의 담 안 넘는 놈 없다.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4677959799dc343c",
+  "lastOpenFiles": [
+    "사흘 굶어서 남의 담 안 넘는 놈 없다.md",
+    "감정에 호소하다.md",
+    "나랏님.md",
+    "담화의 개념과 특성, 발화, 구성, 통일성.md",
+    "말미.md",
+    "복지와 관련된 차별.md",
+    "김영삼 정부.md",
+    "형평성 equity.md",
+    "Untitled 1.md",
+    "김대중 정부.md",
+    "노무현 정부.md",
+    "이명박 정부.md",
+    "박정희 정부.md",
+    "경로 의존성.md",
+    "박정희.md",
+    "박근혜 정부.md",
+    "정부 복지 제도 Timeline.md",
+    "정부 복지 지원.md",
+    "고앤.md",
+    "Untitled.md",
+    "저미.md",
+    "김영삼 정부 복지 실태 숙제.md",
+    "김영삼 정부의 복지 상태.md",
+    "관공서.md",
+    "래야 ㄹ 수 없다.md",
+    "본지 and 정치방향.canvas",
+    "한국 정치 현황.md",
+    "복지정치방향.jpeg"
+  ]
+}
