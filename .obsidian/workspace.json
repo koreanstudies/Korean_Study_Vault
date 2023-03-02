@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a85e408d6fff381f",
+        "id": "44692d3b768da731",
         "type": "tabs",
         "children": [
           {
-            "id": "aaff0e77176f0fa0",
+            "id": "61bbcfc96e4b4bfb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "293afd6692d1de54",
@@ -139,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaff0e77176f0fa0",
+  "active": "61bbcfc96e4b4bfb",
   "lastOpenFiles": [
+    "김영삼 정부의 복지 상태.md",
     "netlify.toml",
     "netlify.rtf",
     "netlify.toml.sb-400b47fb-orRxmw",
@@ -148,7 +148,6 @@
     "netlify.toml.sb-400b47fb-1RGewE",
     "Unconfirmed 39551.crdownload",
     "김영삼 정부 복지 실태 숙제.md",
-    "김영삼 정부의 복지 상태.md",
     "김영삼 정부.md"
   ]
 }
